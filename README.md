@@ -1,4 +1,4 @@
-unQLite
+UnQLite
 =======
 
 [UnQLite](http://unqlite.org/) is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. UnQLite is a document store database similar to MongoDB, Redis, CouchDB etc. as well a standard Key/Value store similar to BerkeleyDB, LevelDB, etc.
